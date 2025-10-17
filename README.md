@@ -77,6 +77,11 @@ Saya Zahran Zaidan Saputra dengan NIM 2415429 mengerjakan Tugas Praktikum 5 dala
 
 ![failed2](https://github.com/user-attachments/assets/d3dd1fad-955c-4342-a4fe-18cd812e09de)
 
+### Prompt error jika Harga yang dimasukkan berupa huruf bukan angka
+
+![failed3](https://github.com/user-attachments/assets/58d74d7c-ee1e-43f1-8b60-874a64b2698f)
+
+
 
 
 
